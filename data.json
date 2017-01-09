@@ -1,0 +1,295 @@
+{
+    "troops": {
+        "airship": {
+            "tiers": [
+                // Tier 1
+                {
+                    "name": "Hummingbird",
+                    "build": {
+                        "food": 100,
+                        "parts": 100,
+                        "electricity": 0,
+                        "gas": 50,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": null
+                },
+                // Tier 2
+                {
+                    "name": "Seagull",
+                    "build": {
+                        "food": 1250,
+                        "parts": 1250,
+                        "electricity": 0,
+                        "gas": 250,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 1248,
+                        "parts": 1248,
+                        "electricity": 0,
+                        "gas": 247,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 3
+                {
+                    "name": "Hind",
+                    "build": {
+                        "food": 11250,
+                        "parts": 11250,
+                        "electricity": 0,
+                        "gas": 2250,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 10600,
+                        "parts": 10600,
+                        "electricity": 0,
+                        "gas": 2125,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 4
+                {
+                    "name": "Gemini",
+                    "build": {
+                        "food": 40000,
+                        "parts": 40000,
+                        "electricity": 0,
+                        "gas": 8000,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 34300,
+                        "parts": 34300,
+                        "electricity": 0,
+                        "gas": 6875,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 5
+                {
+                    "name": "Death",
+                    "build": {
+                        "food": 130000,
+                        "parts": 130000,
+                        "electricity": 0,
+                        "gas": 58000,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 70000,
+                        "parts": 70000,
+                        "electricity": 0,
+                        "gas": 14000,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                }
+            ]
+        },
+        "infantry": {
+            "tiers": [
+                // Tier 1
+                {
+                    "name": "Ranger",
+                    "build": {
+                        "food": 10,
+                        "parts": 10,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 5,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": null
+                },
+                // Tier 2
+                {
+                    "name": "Lurker",
+                    "build": {
+                        "food": 250,
+                        "parts": 250,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 25,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 250,
+                        "parts": 250,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 25,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 3
+                {
+                    "name": "Bomber",
+                    "build": {
+                        "food": 1875,
+                        "parts": 1875,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 188,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 1750,
+                        "parts": 1750,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 176,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 4
+                {
+                    "name": "Predator",
+                    "build": {
+                        "food": 10000,
+                        "parts": 10000,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 1000,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 9063,
+                        "parts": 9063,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 906,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 5
+                {
+                    "name": "Master",
+                    "build": {
+                        "food": 32500,
+                        "parts": 32500,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 7250,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 17500,
+                        "parts": 17500,
+                        "electricity": 0,
+                        "gas": 0,
+                        "cash": 1750,
+                        "shadowMatter": 0
+                    }
+                }
+            ]
+        },
+        "walker": {
+            "tiers": [
+                // Tier 1
+                {
+                    "name": "Yeti",
+                    "build": {
+                        "food": 20,
+                        "parts": 20,
+                        "electricity": 10,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": null
+                },
+                // Tier 2
+                {
+                    "name": "Spider",
+                    "build": {
+                        "food": 625,
+                        "parts": 625,
+                        "electricity": 125,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 625,
+                        "parts": 625,
+                        "electricity": 124,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 3
+                {
+                    "name": "Shredder",
+                    "build": {
+                        "food": 5625,
+                        "parts": 5625,
+                        "electricity": 1125,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 5313,
+                        "parts": 5313,
+                        "electricity": 1063,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 4
+                {
+                    "name": "XTR",
+                    "build": {
+                        "food": 20000,
+                        "parts": 20000,
+                        "electricity": 4000,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 17100,
+                        "parts": 17100,
+                        "electricity": 3438,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                },
+                // Tier 5
+                {
+                    "name": "Mantis",
+                    "build": {
+                        "food": 65000,
+                        "parts": 65000,
+                        "electricity": 29000,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    },
+                    "upgrade": {
+                        "food": 35000,
+                        "parts": 35000,
+                        "electricity": 7000,
+                        "gas": 0,
+                        "cash": 0,
+                        "shadowMatter": 0
+                    }
+                }
+            ]
+        }
+    }
+}
